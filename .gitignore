@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Flutter
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/.ios/
+frontend/.android/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated data and databases
+*.db
+*.sqlite
+*.sqlite3
+frontend/*.zip
+database/*.json
+frontend/commandlinetools-linux-11076708_latest.zip
+frontend/cmdline-tools/
+.venv/
